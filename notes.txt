@@ -1,0 +1,14 @@
+list first_name,department_id,salary for all employees that have salary less than 10000
+
+list all employees that have King in thier last name
+
+display employee data that has an id of 109
+
+list all employees that have salaries 9000,7700,8400
+
+list all employees that have hire_date between '1990-01-01' and '1995-01-01'
+
+list all employees (employee_id,first_name),manager,job_title)who do not have managers
+
+
+give all employee who have less than 10000 salary a bounce of 10% and print the bounce salary
